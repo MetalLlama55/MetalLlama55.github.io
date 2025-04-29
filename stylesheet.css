@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+}
+
+pre {
+    font-size: 25px;
+    color: cadetblue;
+    font-family: 'Arial';
+}
+
+.TopToolBar {
+    h1 {
+        font-size: 40px;
+        color: white;
+    }
+    button {
+        padding: 10px;
+        font-size: 20px;
+        text-align: center;
+        border:0px solid;
+        background-color: black;
+        color: white;
+        cursor: pointer;
+    }
+}
+
+.PageContent {
+    h2 {
+        color: white;
+        font-size: 30px;
+        margin: 10px;
+    }
+    p {
+        color: white;
+        font-size: 20px;
+        border: 1px solid;
+        padding: 5px;
+        margin: 10px;
+    }
+}
